@@ -1,0 +1,1393 @@
+2020-07-20 10:20:26,038 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 10:20:26,038 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 10:20:27,140 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 10:20:27,140 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 10:24:55,767 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 10:24:55,768 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 10:24:56,919 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 10:24:56,919 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 10:24:56,919 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:24:56,920 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 10:24:58,222 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 10:24:58,222 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 10:24:59,583 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 10:24:59,584 - config - loginAndFetchTickets - INFO - Error in storing attributes of a ticket 'NoneType' object is not subscriptable
+2020-07-20 10:24:59,584 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:24:59,584 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 10:25:00,883 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 10:25:00,883 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 10:25:02,224 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 10:25:02,224 - config - loginAndFetchTickets - INFO - Error in storing attributes of a ticket 'NoneType' object is not subscriptable
+2020-07-20 10:25:02,224 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:25:02,225 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 10:25:03,641 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 10:25:03,641 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 10:25:04,948 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 10:25:04,948 - config - loginAndFetchTickets - INFO - Error in storing attributes of a ticket 'NoneType' object is not subscriptable
+2020-07-20 10:25:04,948 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:25:04,949 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 10:25:06,207 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 10:25:06,207 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 10:25:07,539 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 10:25:07,539 - config - loginAndFetchTickets - INFO - Error in storing attributes of a ticket 'NoneType' object is not subscriptable
+2020-07-20 10:25:07,539 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:25:07,540 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 10:25:08,821 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 10:25:08,821 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 10:25:10,163 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 10:25:10,163 - config - loginAndFetchTickets - INFO - Error in storing attributes of a ticket 'NoneType' object is not subscriptable
+2020-07-20 10:25:10,163 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:25:10,163 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:25:10,164 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:25:10,164 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:25:10,164 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 10:25:10,164 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:19:53,549 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:19:54,667 - config - ticket_raising - INFO - Request added
+2020-07-20 13:19:55,917 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:19:55,917 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:19:56,970 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:19:56,970 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:22:19,872 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:22:20,937 - config - ticket_raising - INFO - Request added
+2020-07-20 13:22:21,439 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:22:21,440 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:22:22,579 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:22:22,579 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:22:22,579 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,580 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,580 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,581 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,581 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,581 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,581 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,581 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,581 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,582 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:22:22,583 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:22:22,588 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:23:20,405 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:23:21,489 - config - ticket_raising - INFO - Request added
+2020-07-20 13:23:21,992 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:23:21,993 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:23:23,135 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:23:23,135 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:23:23,136 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,136 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,136 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,137 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,137 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,137 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,137 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,137 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,138 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,138 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:23:23,139 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:23:23,145 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:23:58,472 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:23:59,571 - config - ticket_raising - INFO - Request added
+2020-07-20 13:24:00,106 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:24:00,106 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:24:01,263 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:24:01,263 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:24:01,264 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,264 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,264 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,265 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,265 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,265 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,266 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,266 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,266 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,267 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:24:01,267 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:24:01,274 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:28:20,624 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:28:21,730 - config - ticket_raising - INFO - Request added
+2020-07-20 13:28:22,261 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:28:22,261 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:28:23,404 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:28:23,404 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:28:23,404 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,405 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,405 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,405 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,405 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,405 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,406 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,406 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,406 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,406 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:28:23,407 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:28:23,413 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:29:24,096 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:29:25,182 - config - ticket_raising - INFO - Request added
+2020-07-20 13:29:25,702 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:29:25,702 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:29:26,825 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:29:26,825 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:29:26,826 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,826 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,827 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,827 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,827 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,827 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,827 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,827 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,828 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,828 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:29:26,830 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:29:26,835 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:29:31,976 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:29:33,061 - config - ticket_raising - INFO - Request added
+2020-07-20 13:30:12,999 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:30:14,143 - config - ticket_raising - INFO - Request added
+2020-07-20 13:30:14,664 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:30:14,664 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:30:15,793 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:30:15,793 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:30:15,794 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,794 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,795 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,795 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,795 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,796 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,796 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,797 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,797 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,798 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:30:15,798 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:30:15,805 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:30:18,803 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:30:19,886 - config - ticket_raising - INFO - Request added
+2020-07-20 13:31:21,211 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:31:21,211 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:31:22,410 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:31:22,410 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:31:22,411 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,411 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,412 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,412 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,412 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,412 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,413 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,413 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,413 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,413 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:31:22,415 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:31:22,420 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:31:28,426 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:31:29,501 - config - ticket_raising - INFO - Request added
+2020-07-20 13:34:07,131 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:34:07,131 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:34:08,269 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:34:08,269 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:34:08,270 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,270 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,270 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,271 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,271 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,271 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,272 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,272 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,272 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,272 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:34:08,274 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:34:08,332 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:34:12,859 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:34:14,151 - config - ticket_raising - INFO - Request added
+2020-07-20 13:35:06,341 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:35:06,341 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:35:07,486 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:35:07,487 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:35:07,487 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:07,488 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 13:35:08,788 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 13:35:08,788 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 13:35:10,203 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 13:35:10,204 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,204 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,205 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,205 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,205 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,205 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,205 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,205 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,205 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:10,207 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:35:10,227 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:35:17,884 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:35:19,246 - config - ticket_raising - INFO - Request added
+2020-07-20 13:35:19,246 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 13:35:19,247 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:35:19,247 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:35:20,352 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:35:20,352 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:35:20,353 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:20,353 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 13:35:21,598 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 13:35:21,598 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 13:35:22,905 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 13:35:22,906 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,907 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,907 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,907 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:35:22,910 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:35:22,928 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:42:08,404 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:42:08,404 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:42:09,598 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:42:09,598 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:42:09,599 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,599 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,600 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,600 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,600 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,601 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,601 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,601 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,601 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,602 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:09,604 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:42:09,659 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:42:27,271 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:42:28,552 - config - ticket_raising - INFO - Request added
+2020-07-20 13:42:28,552 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 13:42:28,553 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:42:28,553 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:42:29,694 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:42:29,694 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:42:29,695 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:29,695 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 13:42:30,956 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 13:42:30,957 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 13:42:32,315 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 13:42:32,315 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,315 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,316 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,316 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,316 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,316 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,316 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,317 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,317 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:42:32,319 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:42:32,340 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:44:43,914 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:44:43,915 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:44:52,220 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:44:52,220 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:44:52,221 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,221 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,222 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,222 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,223 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,223 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,223 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,224 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,224 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,225 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:44:52,226 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:44:52,285 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:45:01,051 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:45:01,051 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:45:02,149 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:45:02,150 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:45:02,150 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,151 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,151 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,151 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,151 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,151 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,151 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,152 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,152 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,152 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:45:02,153 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:45:02,158 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:47:12,742 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:47:12,742 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:47:13,925 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:47:13,925 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:47:13,925 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,926 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,926 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,926 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,926 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,926 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,927 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,927 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,927 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,928 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:47:13,928 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:47:13,936 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:47:13,941 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 13:47:14,659 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 13:47:14,662 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 13:47:14,669 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 13:48:05,295 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:48:06,615 - config - ticket_raising - INFO - Request added
+2020-07-20 13:48:06,616 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 13:48:06,616 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:48:06,616 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:48:07,738 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:48:07,738 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:48:07,739 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:07,739 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 13:48:09,034 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 13:48:09,035 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 13:48:10,433 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 13:48:10,433 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,434 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,435 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,435 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,435 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,435 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,436 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,436 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,436 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:48:10,438 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:48:10,458 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:48:10,463 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 13:48:11,253 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 13:48:11,256 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 13:48:11,264 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 13:51:37,591 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-20 13:51:38,932 - config - ticket_raising - INFO - Request added
+2020-07-20 13:51:38,933 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 13:51:38,933 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 13:51:38,933 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 13:51:40,096 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 13:51:40,097 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 13:51:40,098 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:40,099 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-20 13:51:41,370 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-20 13:51:41,370 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-20 13:51:42,806 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-20 13:51:42,807 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,807 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,807 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,808 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,808 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,808 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,808 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,808 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,808 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 13:51:42,810 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 13:51:42,832 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 13:51:42,838 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 13:51:42,841 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-20 13:51:43,621 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 13:51:43,635 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 13:51:43,643 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 13:51:43,665 - config - loginAndFetchTickets - INFO - Done
+2020-07-20 13:51:43,698 - config - predict - INFO - Resolving ticket with ticket id 29
+2020-07-20 14:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 14:51:30,737 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 14:51:30,737 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 14:51:31,913 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 14:51:31,913 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 14:51:31,913 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,914 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,915 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,915 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,915 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,916 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,916 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,916 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,916 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,916 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:31,917 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 14:51:31,924 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 14:51:31,925 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 14:51:32,648 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 14:51:32,651 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 14:51:32,658 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 14:51:34,720 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 14:51:34,721 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 14:51:34,721 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 14:51:35,854 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 14:51:35,854 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 14:51:35,856 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,858 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,858 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,858 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,858 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,859 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,859 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 14:51:35,860 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 14:51:35,866 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 14:51:35,866 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 14:51:36,548 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 14:51:36,551 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 14:51:36,557 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 15:51:30,738 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 15:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 15:51:30,739 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 15:51:31,892 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 15:51:31,892 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 15:51:31,893 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,893 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,893 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:31,895 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 15:51:31,902 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 15:51:31,902 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 15:51:32,513 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 15:51:32,515 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 15:51:32,522 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 15:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 15:51:34,721 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 15:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 15:51:35,872 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 15:51:35,872 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 15:51:35,872 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,873 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,873 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,874 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,874 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,874 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,874 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,874 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,874 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,874 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 15:51:35,875 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 15:51:35,883 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 15:51:35,883 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 15:51:36,584 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 15:51:36,587 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 15:51:36,593 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 16:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 16:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 16:51:30,738 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 16:51:31,912 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 16:51:31,912 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 16:51:31,912 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,913 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,913 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,913 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,913 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,913 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,913 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,914 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,915 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,915 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:31,916 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 16:51:31,921 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 16:51:31,921 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 16:51:32,513 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 16:51:32,516 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 16:51:32,522 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 16:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 16:51:34,722 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 16:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 16:51:35,890 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 16:51:35,890 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 16:51:35,890 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,891 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,891 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,891 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,892 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,892 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,892 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,892 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,892 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,892 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 16:51:35,894 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 16:51:35,898 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 16:51:35,899 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 16:51:36,561 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 16:51:36,564 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 16:51:36,570 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 17:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 17:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 17:51:30,738 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 17:51:31,859 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 17:51:31,859 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 17:51:31,859 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,860 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,860 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,861 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,861 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,861 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,862 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,862 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,863 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,863 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:31,865 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 17:51:31,870 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 17:51:31,871 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 17:51:32,468 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 17:51:32,470 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 17:51:32,477 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 17:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 17:51:34,722 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 17:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 17:51:35,846 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 17:51:35,846 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 17:51:35,847 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,848 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,848 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,850 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,850 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 17:51:35,851 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 17:51:35,856 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 17:51:35,857 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 17:51:36,525 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 17:51:36,527 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 17:51:36,534 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 18:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 18:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 18:51:30,738 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 18:51:31,878 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 18:51:31,878 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 18:51:31,878 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,878 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,879 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,879 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,880 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,880 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,880 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,881 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,881 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,882 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:31,884 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 18:51:31,889 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 18:51:31,890 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 18:51:32,500 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 18:51:32,503 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 18:51:32,510 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 18:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 18:51:34,722 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 18:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 18:51:35,854 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 18:51:35,854 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 18:51:35,856 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,856 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,857 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,858 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,858 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 18:51:35,860 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 18:51:35,864 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 18:51:35,865 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 18:51:36,535 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 18:51:36,537 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 18:51:36,544 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 19:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 19:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 19:51:30,738 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 19:51:31,907 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 19:51:31,908 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 19:51:31,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,909 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,909 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,909 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,909 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,909 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,910 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,910 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,910 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,910 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:31,912 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 19:51:31,917 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 19:51:31,918 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 19:51:32,523 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 19:51:32,526 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 19:51:32,532 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 19:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 19:51:34,722 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 19:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 19:51:35,864 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 19:51:35,864 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 19:51:35,866 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,867 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,867 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,867 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,867 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 19:51:35,870 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 19:51:35,874 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 19:51:35,874 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 19:51:36,550 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 19:51:36,553 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 19:51:36,559 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 20:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 20:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 20:51:30,738 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 20:51:31,900 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 20:51:31,900 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 20:51:31,905 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,906 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,907 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,907 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,907 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,908 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,909 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,909 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:31,911 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 20:51:31,916 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 20:51:31,917 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 20:51:32,489 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 20:51:32,492 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 20:51:32,498 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 20:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 20:51:34,722 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 20:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 20:51:35,894 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 20:51:35,894 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 20:51:35,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,896 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,896 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 20:51:35,899 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 20:51:35,903 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 20:51:35,904 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 20:51:36,567 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 20:51:36,570 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 20:51:36,575 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 21:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 21:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 21:51:30,738 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 21:51:31,884 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 21:51:31,884 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 21:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,885 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,885 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,885 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,885 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,886 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,886 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,886 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,886 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,886 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:31,887 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 21:51:31,892 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 21:51:31,893 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 21:51:32,472 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 21:51:32,475 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 21:51:32,480 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 21:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 21:51:34,722 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 21:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 21:51:35,896 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 21:51:35,896 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 21:51:35,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,898 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,898 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,898 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,899 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,899 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,899 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,899 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,899 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 21:51:35,900 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 21:51:35,905 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 21:51:35,905 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 21:51:36,564 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 21:51:36,567 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 21:51:36,572 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 22:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 22:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 22:51:30,739 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 22:51:31,927 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 22:51:31,927 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 22:51:31,927 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,928 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,928 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,929 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,929 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,929 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,930 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,930 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,930 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,931 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:31,932 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 22:51:31,937 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 22:51:31,937 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 22:51:32,507 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 22:51:32,510 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 22:51:32,516 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 22:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 22:51:34,722 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 22:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 22:51:35,834 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 22:51:35,834 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 22:51:35,836 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,836 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,837 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,837 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,837 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,837 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,837 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,838 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,838 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,838 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 22:51:35,839 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 22:51:35,843 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 22:51:35,844 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 22:51:36,494 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 22:51:36,496 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 22:51:36,502 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 23:51:30,738 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 23:51:30,738 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 23:51:30,739 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 23:51:31,893 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 23:51:31,894 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 23:51:31,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,896 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,896 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:31,898 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 23:51:31,903 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 23:51:31,903 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 23:51:32,508 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 23:51:32,511 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 23:51:32,517 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-20 23:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-20 23:51:34,722 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-20 23:51:34,722 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-20 23:51:35,856 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-20 23:51:35,856 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-20 23:51:35,858 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,859 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,859 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,859 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,860 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,860 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,860 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,861 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,861 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,861 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-20 23:51:35,862 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-20 23:51:35,868 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-20 23:51:35,869 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-20 23:51:36,548 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-20 23:51:36,551 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-20 23:51:36,557 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 00:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 00:51:30,737 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 00:51:30,738 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 00:51:31,903 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 00:51:31,904 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 00:51:31,904 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,905 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,905 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,905 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,905 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,906 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,906 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,906 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,906 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,906 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:31,907 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 00:51:31,913 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 00:51:31,914 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 00:51:32,491 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 00:51:32,494 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 00:51:32,499 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 00:51:34,721 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 00:51:34,721 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 00:51:34,721 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 00:51:35,876 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 00:51:35,876 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 00:51:35,892 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,892 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,893 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,893 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,893 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,893 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,893 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 00:51:35,896 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 00:51:35,900 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 00:51:35,901 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 00:51:36,542 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 00:51:36,545 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 00:51:36,550 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 01:51:30,736 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 01:51:30,737 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 01:51:30,737 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 01:51:31,866 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 01:51:31,866 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 01:51:31,866 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,867 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,867 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,867 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,869 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:31,870 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 01:51:31,875 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 01:51:31,876 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 01:51:32,482 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 01:51:32,484 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 01:51:32,490 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 01:51:34,720 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 01:51:34,721 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 01:51:34,721 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 01:51:35,836 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 01:51:35,836 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 01:51:35,838 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,839 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,839 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,840 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,840 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,840 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,840 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,841 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,841 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,841 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 01:51:35,843 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 01:51:35,848 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 01:51:35,849 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 01:51:36,538 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 01:51:36,541 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 01:51:36,547 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 02:51:30,736 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 02:51:30,736 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 02:51:30,737 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 02:51:31,870 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 02:51:31,870 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 02:51:31,870 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,871 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,871 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,871 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,871 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,871 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,872 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,873 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,873 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,873 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:31,875 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 02:51:31,881 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 02:51:31,882 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 02:51:32,459 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 02:51:32,462 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 02:51:32,468 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 02:51:34,720 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 02:51:34,721 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 02:51:34,721 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 02:51:35,866 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 02:51:35,866 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 02:51:35,867 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,868 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,869 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,869 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,869 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,870 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,870 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,870 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,870 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 02:51:35,872 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 02:51:35,877 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 02:51:35,878 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 02:51:36,530 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 02:51:36,533 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 02:51:36,538 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 03:51:30,736 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 03:51:30,737 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 03:51:30,737 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 03:51:31,877 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 03:51:31,877 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 03:51:31,877 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,878 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,878 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,879 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,879 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,879 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,879 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,879 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,879 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,880 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:31,881 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 03:51:31,886 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 03:51:31,886 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 03:51:32,481 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 03:51:32,483 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 03:51:32,489 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 03:51:34,720 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 03:51:34,721 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 03:51:34,721 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 03:51:35,881 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 03:51:35,881 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 03:51:35,882 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 03:51:35,885 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 03:51:35,890 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 03:51:35,891 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 03:51:36,573 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 03:51:36,576 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 03:51:36,581 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 04:51:30,736 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 04:51:30,737 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 04:51:30,737 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 04:51:31,893 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 04:51:31,894 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 04:51:31,894 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,895 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,896 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,896 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,896 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,897 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,898 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:31,899 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 04:51:31,904 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 04:51:31,905 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 04:51:32,478 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 04:51:32,481 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 04:51:32,486 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 04:51:34,720 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 04:51:34,721 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 04:51:34,721 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 04:51:35,847 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 04:51:35,847 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 04:51:35,847 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,848 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,848 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,848 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,848 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,849 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 04:51:35,850 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 04:51:35,855 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 04:51:35,856 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 04:51:36,508 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 04:51:36,511 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 04:51:36,517 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 05:51:30,737 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 05:51:30,737 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 05:51:30,737 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 05:51:31,883 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 05:51:31,883 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 05:51:31,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:31,886 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 05:51:31,893 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 05:51:31,894 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 05:51:32,507 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 05:51:32,510 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 05:51:32,516 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-21 05:51:34,720 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-21 05:51:34,721 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-21 05:51:34,721 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-21 05:51:35,882 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-21 05:51:35,883 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-21 05:51:35,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,883 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,884 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-21 05:51:35,886 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-21 05:51:35,891 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-21 05:51:35,891 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-21 05:51:36,573 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-21 05:51:36,575 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-21 05:51:36,581 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-23 08:35:23,457 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-23 08:35:24,825 - config - ticket_raising - INFO - Request added
+2020-07-23 08:44:47,445 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-23 08:44:48,753 - config - ticket_raising - INFO - Request added
+2020-07-23 08:44:48,754 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-23 08:44:48,754 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-23 08:44:48,754 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-23 08:44:49,891 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-23 08:44:49,891 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-23 08:44:49,891 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:49,892 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-23 08:44:51,170 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-23 08:44:51,170 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-23 08:44:52,542 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-23 08:44:52,543 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:52,543 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-23 08:44:53,894 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-23 08:44:53,895 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-23 08:44:55,216 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-23 08:44:55,217 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:55,217 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:55,217 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:55,217 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:55,218 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:55,218 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:55,218 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:55,218 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 08:44:55,220 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-23 08:44:55,232 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-23 08:44:55,238 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-23 08:44:55,240 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-23 08:44:55,241 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-23 08:44:55,922 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-23 08:44:55,941 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-23 08:44:55,948 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-23 08:44:55,973 - config - loginAndFetchTickets - INFO - Done
+2020-07-23 09:11:35,984 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-23 09:11:37,330 - config - ticket_raising - INFO - Request added
+2020-07-23 09:11:37,331 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-23 09:11:37,331 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-23 09:11:37,331 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-23 09:11:38,485 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-23 09:11:38,486 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-23 09:11:38,486 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:38,487 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-23 09:11:39,765 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-23 09:11:39,765 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-23 09:11:41,098 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-23 09:11:41,098 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,099 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,099 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,100 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,100 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,100 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,100 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,101 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,101 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-23 09:11:41,102 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-23 09:11:41,119 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-23 09:11:41,124 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-23 09:11:41,127 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-23 09:11:41,816 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-23 09:11:41,828 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-23 09:11:41,835 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-23 09:11:41,861 - config - loginAndFetchTickets - INFO - Done
+2020-07-23 09:25:08,034 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-23 09:25:08,059 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-23 09:25:08,061 - config - ticket_updation - INFO - Fetching ticket
+2020-07-23 09:25:09,380 - config - ticket_updation - INFO - Ticket status changed
+2020-07-23 09:25:09,380 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-23 09:25:57,655 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-23 09:25:57,682 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-23 09:25:57,683 - config - ticket_updation - INFO - Fetching ticket
+2020-07-23 09:25:58,838 - config - ticket_updation - INFO - Ticket status changed
+2020-07-23 09:25:58,838 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-23 09:26:27,080 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-23 09:26:27,106 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-23 09:26:27,108 - config - ticket_updation - INFO - Fetching ticket
+2020-07-23 09:26:28,282 - config - ticket_updation - INFO - Ticket status changed
+2020-07-23 09:26:28,282 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-24 08:09:00,909 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 08:09:02,025 - config - ticket_raising - INFO - Request added
+2020-07-24 08:11:27,408 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 08:11:28,547 - config - ticket_raising - INFO - Request added
+2020-07-24 08:12:45,524 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 08:12:46,647 - config - ticket_raising - INFO - Request added
+2020-07-24 08:15:08,451 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 08:15:09,588 - config - ticket_raising - INFO - Request added
+2020-07-24 08:26:16,274 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 08:26:17,669 - config - ticket_raising - INFO - Request added
+2020-07-24 08:26:17,669 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-24 08:26:17,670 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-24 08:26:17,670 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-24 08:26:18,792 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-24 08:26:18,792 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-24 08:26:18,792 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:18,793 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-24 08:26:20,109 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-24 08:26:20,109 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-24 08:26:21,488 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-24 08:26:21,491 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,491 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,492 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,492 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,492 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,492 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,492 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,492 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,492 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 08:26:21,494 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-24 08:26:21,507 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-24 08:26:21,513 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-24 08:26:21,515 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-24 08:26:22,197 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-24 08:26:22,209 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-24 08:26:22,216 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-24 08:26:22,240 - config - loginAndFetchTickets - INFO - Done
+2020-07-24 09:22:30,223 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 09:22:31,566 - config - ticket_raising - INFO - Request added
+2020-07-24 09:22:31,566 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-24 09:22:31,567 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-24 09:22:31,567 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-24 09:22:32,722 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-24 09:22:32,722 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-24 09:22:32,723 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:32,723 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-24 09:22:34,023 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-24 09:22:34,023 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-24 09:22:35,356 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-24 09:22:35,357 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,358 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,358 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,358 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,359 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,359 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,359 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,359 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,360 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:22:35,361 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-24 09:22:35,375 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-24 09:22:35,380 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-24 09:22:35,383 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-24 09:22:36,078 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-24 09:22:36,090 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-24 09:22:36,097 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-24 09:22:36,122 - config - loginAndFetchTickets - INFO - Done
+2020-07-24 09:23:40,163 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-24 09:23:40,187 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-24 09:23:40,188 - config - ticket_updation - INFO - Fetching ticket
+2020-07-24 09:23:41,507 - config - ticket_updation - INFO - Ticket status changed
+2020-07-24 09:23:41,507 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-24 09:28:28,975 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 09:28:30,280 - config - ticket_raising - INFO - Request added
+2020-07-24 09:28:30,281 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-24 09:28:30,282 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-24 09:28:30,282 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-24 09:28:31,444 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-24 09:28:31,445 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-24 09:28:31,445 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:31,446 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-24 09:28:32,744 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-24 09:28:32,744 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-24 09:28:34,106 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-24 09:28:34,107 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,107 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,107 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,108 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,108 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,108 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,108 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,108 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,109 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:28:34,111 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-24 09:28:34,122 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-24 09:28:34,127 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-24 09:28:34,129 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-24 09:28:34,853 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-24 09:28:34,865 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-24 09:28:34,871 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-24 09:28:34,894 - config - loginAndFetchTickets - INFO - Done
+2020-07-24 09:29:41,082 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-24 09:29:41,103 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-24 09:29:41,105 - config - ticket_updation - INFO - Fetching ticket
+2020-07-24 09:29:42,442 - config - ticket_updation - INFO - Ticket status changed
+2020-07-24 09:29:42,442 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-24 09:35:21,103 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 09:35:22,409 - config - ticket_raising - INFO - Request added
+2020-07-24 09:35:22,410 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-24 09:35:22,410 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-24 09:35:22,410 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-24 09:35:23,553 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-24 09:35:23,553 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-24 09:35:23,554 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:23,555 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-24 09:35:24,839 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-24 09:35:24,840 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-24 09:35:26,170 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-24 09:35:26,171 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,172 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,172 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,172 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,172 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,173 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,173 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,174 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,174 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:35:26,175 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-24 09:35:26,189 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-24 09:35:26,195 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-24 09:35:26,198 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-24 09:35:26,942 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-24 09:35:26,954 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-24 09:35:26,962 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-24 09:35:26,984 - config - loginAndFetchTickets - INFO - Done
+2020-07-24 09:37:52,653 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-24 09:37:52,676 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-24 09:37:52,677 - config - ticket_updation - INFO - Fetching ticket
+2020-07-24 09:37:53,984 - config - ticket_updation - INFO - Ticket status changed
+2020-07-24 09:37:53,984 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-24 09:44:44,361 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 09:44:45,739 - config - ticket_raising - INFO - Request added
+2020-07-24 09:44:45,739 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-24 09:44:45,740 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-24 09:44:45,740 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-24 09:44:46,838 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-24 09:44:46,838 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-24 09:44:46,838 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:46,839 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-24 09:44:48,086 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-24 09:44:48,087 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-24 09:44:49,437 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-24 09:44:49,438 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,439 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,439 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,439 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,440 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,440 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,440 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,440 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,440 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:44:49,442 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-24 09:44:49,452 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-24 09:44:49,457 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-24 09:44:49,460 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-24 09:44:50,164 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-24 09:44:50,177 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-24 09:44:50,185 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-24 09:44:50,210 - config - loginAndFetchTickets - INFO - Done
+2020-07-24 09:45:57,497 - config - updatetickets - ERROR - In update ticket part
+NoneType: None
+2020-07-24 09:45:57,515 - config - updatetickets - ERROR - data updated in db
+NoneType: None
+2020-07-24 09:45:57,516 - config - ticket_updation - INFO - Fetching ticket
+2020-07-24 09:45:58,810 - config - ticket_updation - INFO - Ticket status changed
+2020-07-24 09:45:58,810 - config - updatetickets - ERROR - ticket updated in itsm
+NoneType: None
+2020-07-24 09:46:44,031 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 09:46:45,370 - config - ticket_raising - INFO - Request added
+2020-07-24 09:46:45,370 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-24 09:46:45,371 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-24 09:46:45,371 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-24 09:46:46,487 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-24 09:46:46,487 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-24 09:46:46,487 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:46,487 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-24 09:46:47,747 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-24 09:46:47,747 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-24 09:46:49,145 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-24 09:46:49,146 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,147 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,147 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,147 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,148 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,148 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,148 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,148 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,148 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:46:49,150 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-24 09:46:49,159 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-24 09:46:49,164 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-24 09:46:49,165 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-24 09:46:49,829 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-24 09:46:49,840 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-24 09:46:49,846 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-24 09:46:49,865 - config - loginAndFetchTickets - INFO - Done
+2020-07-24 09:47:58,857 - config - ticket_raising - INFO - Requesting to add new request
+2020-07-24 09:48:00,152 - config - ticket_raising - INFO - Request added
+2020-07-24 09:48:00,153 - config - predict - INFO - Logging in ITSM tool for fetching tickets
+2020-07-24 09:48:00,153 - config - loginAndFetchTickets - INFO - Fetching all requests currently in the ITSM tool
+2020-07-24 09:48:00,153 - config - loginAndFetchTickets - INFO - GET type request to fetch all tickets with parameters as auth key and data
+2020-07-24 09:48:01,261 - config - loginAndFetchTickets - INFO - Converting the response to a readable json
+2020-07-24 09:48:01,261 - config - loginAndFetchTickets - INFO - Calculating number of tickets
+2020-07-24 09:48:01,261 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:01,262 - config - loginAndFetchTickets - INFO - updating status to In Progress
+2020-07-24 09:48:02,591 - config - loginAndFetchTickets - INFO - Changed to In Progress
+2020-07-24 09:48:02,592 - config - loginAndFetchTickets - INFO - picking up ticket by AFORESIGHT
+2020-07-24 09:48:03,921 - config - loginAndFetchTickets - INFO - Assigned to Aforesight
+2020-07-24 09:48:03,922 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,923 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,923 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,924 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,924 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,924 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,925 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,925 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,925 - config - loginAndFetchTickets - INFO - Checking if the ticket is new
+2020-07-24 09:48:03,926 - config - loginAndFetchTickets - INFO - Storing values in a dataframe
+2020-07-24 09:48:03,936 - config - loginAndFetchTickets - INFO - Calling the prediction script for ticket classification
+2020-07-24 09:48:03,943 - config - predictionsOnEachTicket - INFO - Removing Contractions from dataframe part 1
+2020-07-24 09:48:03,946 - config - removeContractions2 - INFO - Removing Contractions from dataframe part 2
+2020-07-24 09:48:04,670 - config - predictionsOnEachTicket - INFO - Lemmatizing tickets
+2020-07-24 09:48:04,681 - config - predictionsOnEachTicket - INFO - Loading Tfidf Vectorizor
+2020-07-24 09:48:04,688 - config - predictionsOnEachTicket - INFO - Loading Xgboost model
+2020-07-24 09:48:04,709 - config - loginAndFetchTickets - INFO - Done
