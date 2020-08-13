@@ -1,10 +1,14 @@
 import smtplib
 import email.message
-
+import configparser
+config = configparser.ConfigParser()
+config.read('config_test.ini')
 server = smtplib.SMTP('smtp.gmail.com:587')
 
-def raiseticket(emailid,issue,t_id):
-	email_content = """
+
+def raiseticket(emailid, issue, t_id):
+
+    email_content = """
 	    <!DOCTYPE html>
     <html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
     <head>
@@ -12,10 +16,11 @@ def raiseticket(emailid,issue,t_id):
     <meta name="viewport" content="width=device-width"> <!-- Forcing initial-scale shouldn't be necessary -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- Use the latest (edge) version of IE rendering engine -->
     <meta name="x-apple-disable-message-reformatting">  <!-- Disable auto-scale in iOS 10 Mail entirely -->
+    
     <title></title> <!-- The title tag shows in email notifications, like Android 4.4. -->
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
-
+    
     <!-- CSS Reset : BEGIN -->
     <style>
 
@@ -382,7 +387,7 @@ def raiseticket(emailid,issue,t_id):
                             </tr>
                         </table>
                     </td>
-               
+
                 <tr>
                     <td valign="middle" class="hero hero-2 bg_white" style="padding: 2em 0 4em 0;">
                         <table>
@@ -390,7 +395,7 @@ def raiseticket(emailid,issue,t_id):
                                 <td>
                                     <div class="text" style="padding: 0 2.5em; text-align: center;">
                                         <h2>This is an Auto Generated mail for the resolution of your ticket</h2>
-                                        
+
 
                                     </div>
                                 </td>
@@ -407,8 +412,8 @@ def raiseticket(emailid,issue,t_id):
                                         <tr>
                                             <td valign="middle" width="50%">
                                                 <div class="text" style="padding: 0 2.5em; text-align: left;">
-                                        <h2>Ticket Id : """+t_id+"""</h2>
-                                        <h2>Issue : """+issue+"""</h2>
+                                        <h2>Ticket Id : """ + t_id + """</h2>
+                                        <h2>Issue : """ + issue + """</h2>
                                         <h2>Status : Resolving....</h2>
 
                                     </div>
@@ -426,10 +431,13 @@ def raiseticket(emailid,issue,t_id):
                                     </table>
                                 </td>
                             </tr><!-- end: tr -->
-                            
+
                 <tr>
                     <td class="bg_light" style="text-align: center;">
-                        <p>Aforesight</p>
+                       
+                        <p>""" + str(config['DEFAULT']["Company Name"]) + """</p>
+                        <p>Contact: """ + str(config['DEFAULT']["Company Contact"]) + """</p>
+                        <p>Reach us: """ + str(config['DEFAULT']["Company Website"]) + """</p>
                     </td>
                 </tr>
             </table>
@@ -439,22 +447,22 @@ def raiseticket(emailid,issue,t_id):
     </body>
     </html>
 	"""
-	msg = email.message.Message()
-	msg['Subject'] = 'Aforesight Automated Mail: Generated Ticket'
-	msg['From'] = 'bramhesh.srivastav@algo8.ai'
-	msg['To'] = emailid
-	password = "Dp's@0119@"
-	msg.add_header('Content-Type', 'text/html')
-	msg.set_payload(email_content)
-	s = smtplib.SMTP('smtp-mail.outlook.com: 587')
-	s.starttls()
-	# Login Credentials for sending the mail
-	s.login(msg['From'], password)
-	s.sendmail(msg['From'], [msg['To']], msg.as_string())
+    msg = email.message.Message()
+    msg['Subject'] = 'Aforesight Automated Mail: Generated Ticket'
+    msg['From'] = config["DEFAULT"]["email_send"]
+    msg['To'] = emailid
+    password = config["DEFAULT"]["email_send_pass"]
+    msg.add_header('Content-Type', 'text/html')
+    msg.set_payload(email_content)
+    s = smtplib.SMTP('smtp-mail.outlook.com: 587')
+    s.starttls()
+    # Login Credentials for sending the mail
+    s.login(msg['From'], password)
+    s.sendmail(msg['From'], [msg['To']], msg.as_string())
 
-    
-def updateticket(emailid,issue,t_id):
-	email_content2 = """
+
+def updateticket(emailid, issue,status, t_id):
+    email_content2 = """
 	<!DOCTYPE html>
 		<head>
     <meta charset="utf-8"> <!-- utf-8 works for most cases -->
@@ -831,7 +839,7 @@ def updateticket(emailid,issue,t_id):
                             </tr>
                         </table>
                     </td>
-               
+
                 <tr>
                     <td valign="middle" class="hero hero-2 bg_white" style="padding: 2em 0 4em 0;">
                         <table>
@@ -839,7 +847,7 @@ def updateticket(emailid,issue,t_id):
                                 <td>
                                     <div class="text" style="padding: 0 2.5em; text-align: center;">
                                         <h2>This is an Auto Generated mail for the resolution of your ticket</h2>
-                                        
+
 
                                     </div>
                                 </td>
@@ -856,9 +864,9 @@ def updateticket(emailid,issue,t_id):
                                         <tr>
                                             <td valign="middle" width="50%">
                                                 <div class="text" style="padding: 0 2.5em; text-align: left;">
-                                        <h2>Ticket Id : """+str(t_id)+"""</h2>
-                                        <h2>Issue : """+str(issue)+"""</h2>
-                                        <h2>Status : Resolved</h2>
+                                        <h2>Ticket Id : """ + str(t_id) + """</h2>
+                                        <h2>Issue : """ + str(issue) + """</h2>
+                                        <h2>Status :""" + str(status) + """</h2>
 
                                     </div>
                                             </td>
@@ -875,10 +883,12 @@ def updateticket(emailid,issue,t_id):
                                     </table>
                                 </td>
                             </tr><!-- end: tr -->
-                            
+
                 <tr>
                     <td class="bg_light" style="text-align: center;">
-                        <p>Aforesight</p>
+                        <p>""" + str(config['DEFAULT']["Company Name"]) + """</p>
+                        <p>Contact: """ + str(config['DEFAULT']["Company Contact"]) + """</p>
+                        <p>Reach us: """ + str(config['DEFAULT']["Company Website"]) + """</p>
                     </td>
                 </tr>
             </table>
@@ -887,15 +897,18 @@ def updateticket(emailid,issue,t_id):
     </center>
 </body>
 </html>"""
-	msg = email.message.Message()
-	msg['Subject'] = 'Aforesight Automated Mail: Resolved Ticket'
-	msg['From'] = 'bramhesh.srivastav@algo8.ai'
-	msg['To'] = emailid
-	password = "Dp's@0119@"
-	msg.add_header('Content-Type', 'text/html')
-	msg.set_payload(email_content2)
-	s = smtplib.SMTP('smtp-mail.outlook.com: 587')
-	s.starttls()
-	# Login Credentials for sending the mail
-	s.login(msg['From'], password)
-	s.sendmail(msg['From'], [msg['To']], msg.as_string())
+    msg = email.message.Message()
+    msg['Subject'] = 'Aforesight Automated Mail: Resolved Ticket'
+    msg['From'] = config["DEFAULT"]["email_send"]
+    msg['To'] = emailid
+    password = config["DEFAULT"]["email_send_pass"]
+    msg.add_header('Content-Type', 'text/html')
+    msg.set_payload(email_content2)
+    s = smtplib.SMTP('smtp-mail.outlook.com: 587')
+    s.starttls()
+    # Login Credentials for sending the mail
+    s.login(msg['From'], password)
+    s.sendmail(msg['From'], [msg['To']], msg.as_string())
+
+
+# raiseticket("samarth.singh@prithvi.ai", "Printer configured", "301")

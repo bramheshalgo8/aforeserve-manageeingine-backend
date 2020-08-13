@@ -1,6 +1,9 @@
 from sqlalchemy import create_engine
 import pandas as pd
-engine = create_engine("mysql+pymysql://root:Dev@1234@@127.0.0.1/manage_engine?host=localhost?tickets=3306")
+import configparser
+config = configparser.ConfigParser()
+config.read('config_test.ini')
+engine = create_engine(config["DEFAULT"]["sql link"])
 
 
 def get_data():
@@ -31,12 +34,14 @@ def updatenew(tid):
     return 'Updated'
 
 def adduser_details(Hostname, IP_Address, MAC_ID, Serial_Number, OS_Version, Laptop_Desktop, IN_SERVER, OUT_SERVER, Direct_Printers, User_Name):
-    query = "INSERT INTO userdetails VALUES ('"+Hostname+"','"+IP_Address+"','"+MAC_ID+"','"+Serial_Number+"','"+OS_Version+"','"+Laptop_Desktop+"','"+IN_SERVER+"','"+OUT_SERVER+"','"+Direct_Printers+"','"+User_Name+"')"
+    email = "sx@gmail.com"
+    query = "INSERT INTO userdetails VALUES ('"+Hostname+"','"+IP_Address+"','"+MAC_ID+"','"+Serial_Number+"','"+OS_Version+"','"+Laptop_Desktop+"','"+IN_SERVER+"','"+OUT_SERVER+"','"+Direct_Printers+"','"+User_Name+"','"+email+"')"
     with engine.begin() as conn:     # TRANSACTION
             conn.execute(query)
 
 def adduser_update(Hostname, IP_Address, MAC_ID, Serial_Number, OS_Version, Laptop_Desktop, IN_SERVER, OUT_SERVER, Direct_Printers, User_Name):
-    query = "update userdetails set Hostname='"+Hostname+"', IP_Address='"+IP_Address+"' , Serial_Number='"+Serial_Number+"' , OS_Version='"+OS_Version+"' , Laptop_Desktop='"+Laptop_Desktop+"', Direct_Printers='"+Direct_Printers+"' , User_Name='"+User_Name+"' where MAC_ID = '"+MAC_ID+"';"
+    email = "sx@gmail.com"
+    query = "update userdetails set Hostname='"+Hostname+"', IP_Address='"+IP_Address+"' , Serial_Number='"+Serial_Number+"' , OS_Version='"+OS_Version+"' , Laptop_Desktop='"+Laptop_Desktop+"', Direct_Printers='"+Direct_Printers+"' , User_Name='"+User_Name+"' , emailid='"+email+"' where MAC_ID = '"+MAC_ID+"';"
     print(query)
     with engine.begin() as conn:     # TRANSACTION
         conn.execute(query)
@@ -49,3 +54,16 @@ def createnewuser(query):
     with engine.begin() as conn:     # TRANSACTION
         conn.execute(query)
     return 'Created'
+
+def feedback(text, macid, tid):
+    query = "INSERT INTO feedbacks VALUES('"+text+"','"+macid+"','"+tid+"');"
+    with engine.begin() as conn:     # TRANSACTION
+        conn.execute(query)
+    return "feedback stored !"
+
+def emaildb(text,macid):
+    query = "update userdetails set emailid='"+text+"' where MAC_ID = '"+macid+"';"
+    print(query)
+    with engine.begin() as conn:     # TRANSACTION
+        conn.execute(query)
+    return "Email Updated"

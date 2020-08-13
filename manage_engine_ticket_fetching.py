@@ -4,13 +4,15 @@ import config
 import requests
 import json
 import create_db
-
+import configparser
+config = configparser.ConfigParser()
+config.read('config_test.ini')
 
 def loginAndFetchTickets(macid):
     # Fetching all requests currently in the ITSM tool
-    config.logger.info('Fetching all requests currently in the ITSM tool')
-    URL = "https://182.75.252.43:8080/api/v3/requests"
-    header = {"Authtoken": "A8827317-282E-4BAF-B788-C6E830B2F934"}
+    # config.logger.info('Fetching all requests currently in the ITSM tool')
+    URL =  config["DEFAULT"]["api link"]
+    header = {"Authtoken": config["DEFAULT"]["token"]}
     data = {"input_data": json.dumps({"list_info": {
         "search_fields": {
             "status": "New"
@@ -20,10 +22,10 @@ def loginAndFetchTickets(macid):
         }
     }})}
     # GET type request to fetch all tickets with parameters as auth key and data
-    config.logger.info('GET type request to fetch all tickets with parameters as auth key and data')
+    # config.logger.info('GET type request to fetch all tickets with parameters as auth key and data')
     r = requests.get(url=URL, verify=False, headers=header, data=data)
 
-    config.logger.info('Converting the response to a readable json')
+    # config.logger.info('Converting the response to a readable json')
     data = r.json() # Converting the response to a readable json
 
     incd_id = []
@@ -45,7 +47,7 @@ def loginAndFetchTickets(macid):
     rc = []
     emails = []
     # Calculating number of tickets
-    config.logger.info('Calculating number of tickets')
+    # config.logger.info('Calculating number of tickets')
     num_of_tickets = data['list_info']['row_count']
     print(num_of_tickets)
 
@@ -53,9 +55,9 @@ def loginAndFetchTickets(macid):
         try:
             print('Finding ticket attributes and storing it in a dataframe')
             # This checks if the ticket is new
-            config.logger.info('Checking if the ticket is new')
+            # config.logger.info('Checking if the ticket is new')
 
-            if row['status']['name'] == 'New':
+            if row['status']['name'] == 'Open':
                 inc_id = row['id']
                 print(inc_id, "picked up")
 
@@ -67,22 +69,22 @@ def loginAndFetchTickets(macid):
                         },
                         'status_change_comments': "Picked up by aforesight"
                     }})}
-                URL = "https://182.75.252.43:8080/api/v3/requests/" + str(inc_id)
+                URL = config["DEFAULT"]["api link"] + str(inc_id)
 
                 # PUT request to update status to In Progress
-                config.logger.info('updating status to In Progress')
+                # config.logger.info('updating status to In Progress')
 
                 r1 = requests.put(url=URL, verify=False, headers=header, data=data)
                 #print(r1.json())
-                config.logger.info("Changed to In Progress")
+                # config.logger.info("Changed to In Progress")
 
-                URL = "https://182.75.252.43:8080/api/v3/requests/" + str(inc_id) + "/pickup"
+                URL = config["DEFAULT"]["api link"] + str(inc_id) + "/pickup"
                 # PUT request for picking up ticket by AFORESIGHT
-                config.logger.info('picking up ticket by AFORESIGHT')
+                # config.logger.info('picking up ticket by AFORESIGHT')
                 r2 = requests.put(url=URL, verify=False, headers=header)
                 print(r2.json())
 
-                config.logger.info("Assigned to Aforesight")
+                # config.logger.info("Assigned to Aforesight")
 
                 incd_id.append(inc_id)
 
@@ -160,9 +162,9 @@ def loginAndFetchTickets(macid):
 
         except Exception as e:
 
-            config.logger.info('Error in storing attributes of a ticket ' + str(e))
+            print('Error in storing attributes of a ticket ' + str(e))
     print(len(incd_id),len(sptm),len(prv_log),len(cal),len(ten),len(emails),len(loc),len(med),len(src),len(log_tm),len(urg),len(imp),len(pr),len(wg),len(at),len(sw))
-    config.logger.info('Storing values in a dataframe')
+    # config.logger.info('Storing values in a dataframe')
     df_dict = {'Incident ID': incd_id, 'Description': sptm, 'Private Log': prv_log, 'Caller': cal, 'Tenant': ten, \
                'User_Mail': emails, 'Location': loc, 'Medium': med, 'Source': src, 'Logged Time': log_tm,
                'Urgency': urg, 'Impact': imp, 'Priority': pr, \
@@ -177,10 +179,10 @@ def loginAndFetchTickets(macid):
 
     #     df.to_excel('Incidents.xlsx',sheet_name='All_Incidents')
 
-    config.logger.info('Calling the prediction script for ticket classification')
+    # config.logger.info('Calling the prediction script for ticket classification')
     df=predicting_part.predictionsOnEachTicket(df)
     df.sort_values(by='Incident ID',inplace=True)
-    config.logger.info("Done")
+    # config.logger.info("Done")
     return df, num_of_tickets
 
 # s = loginAndFetchTickets()

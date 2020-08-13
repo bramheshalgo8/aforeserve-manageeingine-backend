@@ -2,11 +2,10 @@ import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split,GridSearchCV,StratifiedKFold
-from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import LabelEncoder,label
 from xgboost import XGBClassifier
 from sklearn.metrics import accuracy_score,classification_report
 import string
-import spacy
 import re
 import pickle
 import config
